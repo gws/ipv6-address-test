@@ -1,0 +1,11 @@
+Credit for the original test suite goes to:
+
+Rich Brown <richard.e.brown@dartware.com>
+
+Converted from:
+
+http://download.dartware.com/thirdparty/test-ipv6-regex.pl
+
+(more people are credited in that file)
+
+I've added a couple PHP-specific tests to the suite, including testing the 'filter' extension as well as inet_pton.

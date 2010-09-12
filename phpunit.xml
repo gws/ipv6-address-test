@@ -1,0 +1,5 @@
+<phpunit>
+    <testsuite name="IPv6 Test Suite">
+        <directory>./</directory>
+    </testsuite>
+</phpunit>
